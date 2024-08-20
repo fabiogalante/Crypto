@@ -1,0 +1,14 @@
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/bin/Debug/net8.0/Crypto
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/bin/Debug/net8.0/Crypto.deps.json
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/bin/Debug/net8.0/Crypto.runtimeconfig.json
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/bin/Debug/net8.0/Crypto.dll
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/bin/Debug/net8.0/Crypto.pdb
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.AssemblyInfo.cs
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.dll
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/refint/Crypto.dll
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.pdb
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/Crypto.genruntimeconfig.cache
+/Users/fabio/Documents/Development/Prometheus/Crypto/Crypto/obj/Debug/net8.0/ref/Crypto.dll
